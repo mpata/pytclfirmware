@@ -41,7 +41,7 @@ tclfirmware --file ~/Downloads/V8-NT67F02-LF1V436.bin --verify True --extract
       "device_name": "/dev/mmcblk0boot0", 
       "name": "ddrcfg", 
       "end_pos": 298036, 
-      "type": "none\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000", 
+      "type": "none", 
       "size": 245760
     }, 
     {
@@ -52,7 +52,7 @@ tclfirmware --file ~/Downloads/V8-NT67F02-LF1V436.bin --verify True --extract
       "device_name": "/dev/mmcblk0", 
       "name": "stbc", 
       "end_pos": 363656, 
-      "type": "none\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002", 
+      "type": "none", 
       "size": 65536
     }, 
     {
@@ -63,7 +63,7 @@ tclfirmware --file ~/Downloads/V8-NT67F02-LF1V436.bin --verify True --extract
       "device_name": "/dev/mmcblk0", 
       "name": "uboot", 
       "end_pos": 726984, 
-      "type": "none\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002 ", 
+      "type": "none", 
       "size": 363244
     }, 
     {
@@ -74,7 +74,7 @@ tclfirmware --file ~/Downloads/V8-NT67F02-LF1V436.bin --verify True --extract
       "device_name": "/dev/mmcblk0", 
       "name": "logo", 
       "end_pos": 810126, 
-      "type": "none\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\"*", 
+      "type": "none", 
       "size": 83058
     }, 
     {
@@ -85,7 +85,7 @@ tclfirmware --file ~/Downloads/V8-NT67F02-LF1V436.bin --verify True --extract
       "device_name": "/dev/mmcblk0", 
       "name": "secos", 
       "end_pos": 1529786, 
-      "type": "none\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000n", 
+      "type": "none", 
       "size": 719576
     }, 
     {
@@ -96,7 +96,7 @@ tclfirmware --file ~/Downloads/V8-NT67F02-LF1V436.bin --verify True --extract
       "device_name": "/dev/mmcblk0p2", 
       "name": "vertbl", 
       "end_pos": 1530022, 
-      "type": "none\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002*", 
+      "type": "none", 
       "size": 152
     }, 
     {

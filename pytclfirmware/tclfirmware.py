@@ -132,7 +132,7 @@ def scan(firmware, verify):
         logging.debug("Partition MD5 digest: %s" % md5sum)
 
         # Partition metadata
-        ptype = str(buf[64:]).strip('\0').decode("ascii", "ignore")
+        ptype = str(buf[64:68]).strip('\0').decode("ascii", "ignore")
         pname = str(buf[24:40]).strip('\0').decode("ascii", "ignore")
         pdevice_name = str(buf[40:64]).strip('\0').decode("ascii", "ignore")
         if verify is True:
