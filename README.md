@@ -6,7 +6,7 @@ Tested with S83 series files.
 
 ## Usage
 ```shell
-git https://github.com/mpata/pytclfirmware.git
+git clone https://github.com/mpata/pytclfirmware.git
 cd pytclfirmware/
 pip install .
 
