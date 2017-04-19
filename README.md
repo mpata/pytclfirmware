@@ -1,7 +1,7 @@
 # pytclfirmware
 Scan and extract TCL SmartTV Televisions firmware
 
-Firmware files are available on TCL website.
+Firmware files are available on [TCL](http://www.tcl.eu/) website.
 Tested with S83 series files.
 
 ## Usage
